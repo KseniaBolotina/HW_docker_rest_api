@@ -2,7 +2,7 @@ FROM python:3.11-slim
 
 WORKDIR /stocks_products
 
-COPY . /stocks_products//
+COPY . /stocks_products/
 
 RUN pip install --no-cache-dir -r requirements.txt
 
