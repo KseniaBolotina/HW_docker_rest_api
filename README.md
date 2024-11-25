@@ -1,4 +1,3 @@
-```markdown
 # Запуск Docker контейнера для Django
 
 ### Сборка Docker-образа:
